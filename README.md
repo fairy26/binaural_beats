@@ -19,7 +19,8 @@
     ref: [Coding Music: A project on Python’s Accel Brain Beat | Medium](https://medium.com/strategio/coding-music-a-project-on-pythons-accel-brain-beat-f1aab34b6876)
 
     ```bash
-    pip install AccelBrainBeat
+    brew install portaudio
+    pip install AccelBrainBeat pyaudio
     ```
 
 3. 使用
