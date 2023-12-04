@@ -20,7 +20,7 @@
 
     ```bash
     brew install portaudio
-    pip install AccelBrainBeat pyaudio
+    pip install AccelBrainBeat pyaudio pydub
     ```
 
 3. 使用
