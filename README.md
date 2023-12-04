@@ -20,7 +20,7 @@
 
     ```bash
     brew install portaudio
-    pip install AccelBrainBeat pyaudio soundfile
+    pip install flet AccelBrainBeat pyaudio soundfile
     pip install pydub  # for exp_cut_silence.py
     ```
 
